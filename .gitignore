@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Django sqlite
+db.sqlite3
+
+# Editor project files
+.vscode
